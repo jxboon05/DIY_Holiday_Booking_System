@@ -3,8 +3,12 @@
 ## 📌 Project Overview
 An enterprise relational database system built with Oracle SQL and PL/SQL to manage tourism bookings, service reservations, and automated financial processing. Designed for "DIY Holiday," this centralized system streamlines travel operations by integrating tour package logistics with multi-vendor flight, hotel, and transport services.
 
+---
+
 ## 💼 Business Impact
 This database architecture ensures data integrity across complex, multi-vendor travel bookings. By automating payment validations and generating real-time revenue analytics, it reduces manual data entry errors and provides actionable business intelligence for tourism management.
+
+---
 
 ## 🛠️ Tech Stack & Skills
 
@@ -31,12 +35,15 @@ This database architecture ensures data integrity across complex, multi-vendor t
 - User-Defined Functions
 - Complex SQL Queries
 
+---
+
 ## 📊 Database Architecture
 ![ER Diagram](./assets/ER_Diagram.png)
 ![EER Diagram](./assets/EER_Diagram.png)
 
-## ✨ Key Features
+---
 
+## ✨ Key Features
 - Customer Management
 - Package Booking
 - Flight Reservation
@@ -45,6 +52,8 @@ This database architecture ensures data integrity across complex, multi-vendor t
 - Payment Processing
 - Revenue Reporting
 - Customer Spending Analysis
+
+---
 
 ## 💡 My Contributions
 
@@ -58,6 +67,8 @@ This was a university group project. My primary responsibilities focused on the 
 | Customer Spending Analysis | Created a PL/SQL function to classify customers based on their spending levels for business analytics and customer segmentation. | [`get_customer_spending_level.sql`](./sql_scripts/functions/get_customer_spending_level.sql) |
 | Business Intelligence Queries | Wrote advanced SQL queries using joins, subqueries, aggregation, and grouping to generate revenue reports and customer insights. | [`customer_revenue_queries.sql`](./sql_scripts/queries/customer_revenue_queries.sql) |
 
+---
+
 ## 🚀 Future Improvements
 
 - Implement database triggers for automated notifications.
@@ -66,13 +77,17 @@ This was a university group project. My primary responsibilities focused on the 
 - Improve query performance using indexing.
 - Build a dashboard for booking and revenue analytics.
 
+---
+
 ## 📚 Documentation
 
 The complete technical documentation, including the database schema, SQL implementation, business rules, and testing results, is available below:
 
 📄 [DIY Holiday Technical Report](./docs/diy_holiday.pdf)
 
-## Author
+---
+
+## 👤 Author
 
 **Boon Jia Xuan**
 
