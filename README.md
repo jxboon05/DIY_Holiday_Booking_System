@@ -15,15 +15,36 @@ This database architecture ensures data integrity across complex, multi-vendor t
 ![ER Diagram](./assets/ER_Diagram.png)
 ![EER Diagram](./assets/EER_Diagram.png)
 
-## 💡 Key Features & My Contributions
+## ✨ Features
+
+- Customer Management
+- Package Booking
+- Flight Reservation
+- Hotel Reservation
+- Transportation Booking
+- Payment Processing
+- Revenue Reporting
+- Customer Spending Analysis
+
+## 💡 My Contributions
 As a core database designer and developer on this project, my specific focus was on building the **Financial Processing and Revenue Analysis modules**:
 * **Automated Transaction Logic:** Developed PL/SQL stored procedures ([`add_payment.sql`](./sql_scripts/procedures/add_payment.sql)) with multi-branch validation to enforce business rules and prevent orphaned financial records.
 * **Revenue & Spending Analysis:** Engineered PL/SQL functions ([`get_total_package_revenue.sql`](./sql_scripts/functions/get_total_package_revenue.sql), [`get_customer_spending_level.sql`](./sql_scripts/functions/get_customer_spending_level.sql)) to aggregate financial data and automate customer segmentation.
 * **Advanced Data Retrieval:** Wrote complex SQL queries ([`customer_revenue_queries.sql`](./sql_scripts/queries/customer_revenue_queries.sql)) utilizing subqueries and relational filtering to extract verified, high-priority revenue data for business intelligence reporting.
 
-## 📂 Technical Documentation
-For a deep dive into the system requirements, business rules, and complete data dictionary, please review the final project report:
-* [📥 View the Full DIY Holiday Technical Report (PDF)](./docs/diy_holiday.pdf)
+## 🚀 Future Improvements
+
+- Online booking API integration
+- Trigger-based payment notifications
+- Role-based access control
+- Booking cancellation workflow
+- Dashboard reporting
+
+## 📚 Documentation
+
+The complete technical documentation, including the database schema, SQL implementation, business rules, and testing results, is available below:
+
+📄 [DIY Holiday Technical Report](./docs/diy_holiday.pdf)
 
 ## Author
 
