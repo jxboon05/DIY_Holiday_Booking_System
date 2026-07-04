@@ -18,3 +18,10 @@ As a core database designer and developer on this project, my specific focus was
 * **Revenue & Spending Analysis:** Engineered PL/SQL functions (`get_total_package_revenue.sql`, `get_customer_spending_level.sql`) to aggregate financial data and automate customer segmentation.
 * **Advanced Data Retrieval:** Wrote complex SQL queries (`customer_revenue_queries.sql`) utilizing subqueries and relational filtering to extract verified, high-priority revenue data for business intelligence reporting.
 
+## Author
+
+**Boon Jia Xuan**
+
+Bachelor of Computer Science (Honours)
+
+Universiti Tunku Abdul Rahman (UTAR)
