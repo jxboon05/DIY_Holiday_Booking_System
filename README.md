@@ -47,6 +47,7 @@ This database architecture ensures data integrity across complex, multi-vendor t
 - Customer Spending Analysis
 
 ## 💡 My Contributions
+
 As a core database designer and developer on this project, my specific focus was on building the **Financial Processing and Revenue Analysis modules**:
 * **Automated Transaction Logic:** Developed PL/SQL stored procedures ([`add_payment.sql`](./sql_scripts/procedures/add_payment.sql)) with multi-branch validation to enforce business rules and prevent orphaned financial records.
 * **Revenue & Spending Analysis:** Engineered PL/SQL functions ([`get_total_package_revenue.sql`](./sql_scripts/functions/get_total_package_revenue.sql), [`get_customer_spending_level.sql`](./sql_scripts/functions/get_customer_spending_level.sql)) to aggregate financial data and automate customer segmentation.
