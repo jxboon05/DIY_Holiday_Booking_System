@@ -15,7 +15,7 @@ This database architecture ensures data integrity across complex, multi-vendor t
 ![ER Diagram](./assets/ER_Diagram.png)
 ![EER Diagram](./assets/EER_Diagram.png)
 
-## ✨ Features
+## ✨ Key Features
 
 - Customer Management
 - Package Booking
