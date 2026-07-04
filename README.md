@@ -14,9 +14,13 @@ An enterprise relational database system built with Oracle SQL and PL/SQL to man
 
 ## 💡 Key Features & My Contributions
 As a core database designer and developer on this project, my specific focus was on building the **Financial Processing and Revenue Analysis modules**:
-* **Automated Transaction Logic:** Developed PL/SQL stored procedures (`add_payment.sql`) with multi-branch validation to enforce business rules and prevent orphaned financial records.
-* **Revenue & Spending Analysis:** Engineered PL/SQL functions (`get_total_package_revenue.sql`, `get_customer_spending_level.sql`) to aggregate financial data and automate customer segmentation.
-* **Advanced Data Retrieval:** Wrote complex SQL queries (`customer_revenue_queries.sql`) utilizing subqueries and relational filtering to extract verified, high-priority revenue data for business intelligence reporting.
+* **Automated Transaction Logic:** Developed PL/SQL stored procedures ([`add_payment.sql`](./sql_scripts/procedures/add_payment.sql)) with multi-branch validation to enforce business rules and prevent orphaned financial records.
+* **Revenue & Spending Analysis:** Engineered PL/SQL functions ([`get_total_package_revenue.sql`](./sql_scripts/functions/get_total_package_revenue.sql), [`get_customer_spending_level.sql`](./sql_scripts/functions/get_customer_spending_level.sql)) to aggregate financial data and automate customer segmentation.
+* **Advanced Data Retrieval:** Wrote complex SQL queries ([`customer_revenue_queries.sql`](./sql_scripts/queries/customer_revenue_queries.sql)) utilizing subqueries and relational filtering to extract verified, high-priority revenue data for business intelligence reporting.
+
+## 📂 Technical Documentation
+For a deep dive into the system requirements, business rules, and complete data dictionary, please review the final project report:
+* [📥 View the Full DIY Holiday Technical Report (PDF)](./docs/diy_holiday.pdf)
 
 ## Author
 
