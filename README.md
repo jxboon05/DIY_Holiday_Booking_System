@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 An enterprise relational database system built with Oracle SQL and PL/SQL to manage tourism bookings, service reservations, and automated financial processing. Designed for "DIY Holiday," this centralized system streamlines travel operations by integrating tour package logistics with multi-vendor flight, hotel, and transport services.
 
+## 💼 Business Impact
+This database architecture ensures data integrity across complex, multi-vendor travel bookings. By automating payment validations and generating real-time revenue analytics, it reduces manual data entry errors and provides actionable business intelligence for tourism management.
+
 ## 🛠️ Tech Stack & Skills
 * **Languages:** Oracle SQL, PL/SQL
 * **Concepts:** Relational Database Design, Entity-Relationship Modeling (ERD/EER), Data Normalization, ACID Transactions
