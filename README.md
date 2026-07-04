@@ -7,9 +7,29 @@ An enterprise relational database system built with Oracle SQL and PL/SQL to man
 This database architecture ensures data integrity across complex, multi-vendor travel bookings. By automating payment validations and generating real-time revenue analytics, it reduces manual data entry errors and provides actionable business intelligence for tourism management.
 
 ## 🛠️ Tech Stack & Skills
-* **Languages:** Oracle SQL, PL/SQL
-* **Concepts:** Relational Database Design, Entity-Relationship Modeling (ERD/EER), Data Normalization, ACID Transactions
-* **Database Objects:** Tables, Views, Advanced Queries, Stored Procedures, User-Defined Functions
+
+### Database
+- Oracle Database
+- Oracle SQL
+- PL/SQL
+
+### Development Tools
+- Oracle SQL Developer
+
+### Concepts
+- Relational Database Design
+- ER & EER Modeling
+- Database Normalization
+- ACID Transactions
+- Primary & Foreign Keys
+- Constraints
+
+### Database Objects
+- Tables
+- Views
+- Stored Procedures
+- User-Defined Functions
+- Complex SQL Queries
 
 ## 📊 Database Architecture
 ![ER Diagram](./assets/ER_Diagram.png)
